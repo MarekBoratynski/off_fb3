@@ -22,7 +22,7 @@ ___INFO___
     "REMARKETING"
   ],
   "brand": {
-    "id": "github.com_stape-io",
+    "id": "github.com_marek_boratynski",
     "displayName": ""
   },
   "description": "",
