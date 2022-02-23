@@ -1,5 +1,7 @@
 homepage: "https://adpiston.com/"
 versions:
+  - sha: c5c7677a585e6aa373f40f1668b3c32b423cd595
+    changeNotes: update.
   - sha: dae4f3b32e59c8ad0c1503ef412d254545095c51
     changeNotes: update.  
   - sha: 78d28856bc3d7abf176504ec0486f50e1eac98f5
