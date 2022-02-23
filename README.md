@@ -1,6 +1,6 @@
 
 
-This is version of stape tag changed in a way so you can use it to send offlineevents instead of facebook events. To check their work go here: https://github.com/stape-io/
+This is version is stape tag changed in a way so you can use it to send offlineevents instead of facebook events. To check their work go here: https://github.com/stape-io/
 
 ## Open Source
 
